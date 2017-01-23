@@ -10,15 +10,16 @@
    * Insertion
    * Deletion
    * Search
+   * Augmentation
 
 ## Dynamic Programming
  * Definition
  * Types
  * Classical examples
    * Fibonacci
-   * LIS
-   * LCS
-   * Knapsack   
+   * LIS: Longest Increasing Subsequence
+   * LCS: Longest Common Subsquence
+   * Knapsack
  * Improving space complexity
  * Advanced examples
 
@@ -30,13 +31,17 @@
    * Adjacency list   
    * Edge list
  * DFS / BFS
- * Topological sort
- * Dijkstra
- * Bellmanford
+ * Topological sort (+ Dynamic programming on DAG)
+ * Floyd Warshall   (All pairs shortest path)
+ * Dijkstra         (Single source shortest path)
+ * Bellmanford      (Single source shortest path)
  
  
 # Lectures
-  1. 
-  2. 
-  3. 
-  4. 
+  1. [Tree definition - Heap]
+  2. [Binary Search Tree]
+  3. [DP definition - Classical Examples]
+  4. [Improving space complexity - Advanced examples]
+  5. [Graph definition -  DFS / BFS]
+  6. [Topo sort - Floyd]
+  7. [Dijkstra - Bellmanford]
