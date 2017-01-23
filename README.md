@@ -6,7 +6,7 @@
    * Insertion
    * Delete min
    * Find min   
- * Binary Seacrh Tree (AVL / Treap)
+ * Binary Seacrh Tree (AVL / Splay / Treap)
    * Insertion
    * Deletion
    * Search
