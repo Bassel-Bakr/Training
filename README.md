@@ -25,7 +25,7 @@
 
 ## Graph
  * Terminologies
- * Some spical graphs
+ * Some special graphs
  * Graph representations
    * Adjacency matrix
    * Adjacency list   
