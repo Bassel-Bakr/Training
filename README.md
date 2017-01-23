@@ -14,12 +14,13 @@
 ## Dynamic Programming
  * Definition
  * Types
- * Examples
+ * Classical examples
    * Fibonacci
    * LIS
    * LCS
    * Knapsack   
  * Improving space complexity
+ * Advanced examples
 
 ## Graph
  * Terminologies
@@ -32,3 +33,10 @@
  * Topological sort
  * Dijkstra
  * Bellmanford
+ 
+ 
+# Lectures
+  1. 
+  2. 
+  3. 
+  4. 
