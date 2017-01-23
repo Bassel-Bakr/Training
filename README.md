@@ -1,3 +1,3 @@
-# Training
-Training plan
-..* f
+# Training plan
+
+## Tree
